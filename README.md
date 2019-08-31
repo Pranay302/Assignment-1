@@ -11,7 +11,7 @@ This is the home page for [Vecta Corp][VC]. website. It basically summarizes the
 3. **Contact information for Vecta Corporation**
 4. **Management Team**
 
-To learn about our client's experience and for more information about the compant click [here][VC]. 
+To learn about our client's experience and for more information about us click [here][VC]. 
 
 
 ## Note:
